@@ -1,7 +1,6 @@
 # TRBLAPPS-Quiz
 Um aplicativo educativo desenvolvido em React Native para testar conhecimentos sobre as lendas, mitos e tradições dos povos originários do Brasil.
 Aqui está uma sugestão de descrição para seu repositório GitHub, com emojis e formatação para destacar seu projeto:
-[Link do Trabalho Quiz: Aqui](https://github.com/Flimars/TRBLAPPS-Quiz)
 ---
 
 # 🌿 Quiz sobre Culturas Indígenas Brasileiras  
